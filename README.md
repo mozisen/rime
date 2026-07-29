@@ -1,4 +1,4 @@
-# 极点五笔词库工具
+# Rime五笔词库工具
 
 一个用于维护 Rime 小狼毫极点五笔词库的 Windows 图形化工具。
 
@@ -7,7 +7,11 @@
 ## 下载
 
 请前往 [Releases](https://github.com/mozisen/rime/releases) 下载最新版本的
-`Rime-Dictionary-Tool-版本号.exe`。程序运行后显示中文界面。
+`Rime-Wubi-Dictionary-Tool-版本号.exe`。程序运行后显示中文界面。
+
+## 软件界面
+
+![Rime五笔词库工具界面](images/rime-wubi-dictionary-tool.png)
 
 ## 功能
 
@@ -50,7 +54,7 @@ wubi86_jidian.dict.yaml.bak
 
 ## 使用方法
 
-1. 下载 `极点五笔词库工具.exe`。
+1. 下载 `Rime-Wubi-Dictionary-Tool-版本号.exe`。
 2. 将它放入 Rime 用户配置目录，或保持在当前工具目录中运行。
 3. 使用“造词”页面添加自定义词条。
 4. 使用“调整词序”页面查找并修改主词库记录。
@@ -95,7 +99,7 @@ python -m unittest -v
 ```powershell
 python -m pip install pyinstaller
 python -m PyInstaller --noconfirm --clean --onefile --windowed `
-  --name "极点五笔词库工具" rime_dict_tool.py
+  --name "Rime五笔词库工具" rime_dict_tool.py
 ```
 
 ## 项目文件
@@ -103,7 +107,7 @@ python -m PyInstaller --noconfirm --clean --onefile --windowed `
 - `rime_dict_tool.py`：程序源码；
 - `test_rime_dict_tool.py`：词库读写和部署程序定位测试；
 - `使用说明.txt`：简明使用说明；
-- `Rime-Dictionary-Tool-版本号.exe`：在 GitHub Release 中提供。
+- `Rime-Wubi-Dictionary-Tool-版本号.exe`：在 GitHub Release 中提供。
 
 ## 注意事项
 

@@ -13,7 +13,7 @@ from tkinter import messagebox, ttk
 
 
 APP_VERSION = "1.0.1"
-APP_TITLE = f"极点五笔词库工具 {APP_VERSION}"
+APP_TITLE = f"Rime五笔词库工具 {APP_VERSION}"
 USER_DICT_NAME = "wubi86_jidian_user.dict.yaml"
 MAIN_DICT_NAME = "wubi86_jidian.dict.yaml"
 
