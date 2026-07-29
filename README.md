@@ -7,7 +7,7 @@
 ## 下载
 
 请前往 [Releases](https://github.com/mozisen/rime/releases) 下载最新版本的
-`极点五笔词库工具.exe`。
+`Rime-Dictionary-Tool-版本号.exe`。程序运行后显示中文界面。
 
 ## 功能
 
@@ -103,7 +103,7 @@ python -m PyInstaller --noconfirm --clean --onefile --windowed `
 - `rime_dict_tool.py`：程序源码；
 - `test_rime_dict_tool.py`：词库读写和部署程序定位测试；
 - `使用说明.txt`：简明使用说明；
-- `极点五笔词库工具.exe`：在 GitHub Release 中提供。
+- `Rime-Dictionary-Tool-版本号.exe`：在 GitHub Release 中提供。
 
 ## 注意事项
 
