@@ -1,5 +1,5 @@
 # 方案连接
-[ 86 版极点五笔的输入配置方案]([https://github.com/mozisen/rime/releases](https://github.com/KyleBing/rime-wubi86-jidian?tab=readme-ov-file)) 
+[ 86 版极点五笔的输入配置方案]([https://github.com/mozisen/rime/releases](https://github.com/KyleBing/rime-wubi86-jidian?tab=readme-ov-file)
 
 # Rime五笔词库工具
 
